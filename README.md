@@ -1,4 +1,5 @@
-<img width="1200" height="234" alt="studio-ghibli-border" src="https://github.com/user-attachments/assets/60c03600-cc11-46f3-bb41-f4f2eb77d0ef" />
+<img width="735" height="245" alt="alternative-border" src="https://github.com/user-attachments/assets/9394ff3a-db28-4ca2-bf69-c8a3f1b0ad86" />
+
 
 ## Hey y'all's! My name is Jovie! ꉂ(˵˃ ᗜ ˂˵)⸜
 
