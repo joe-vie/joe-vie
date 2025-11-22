@@ -1,4 +1,4 @@
-<img width="935" height="245" alt="red-grunge" src="https://github.com/user-attachments/assets/5a2abefc-0aa5-4f4e-a18e-44923ae59432" />
+<img width="935" height="145" alt="red-grunge" src="https://github.com/user-attachments/assets/5a2abefc-0aa5-4f4e-a18e-44923ae59432" />
 
 
 ## Hey y'all's! My name is Jovie! ꉂ(˵˃ ᗜ ˂˵)⸜
