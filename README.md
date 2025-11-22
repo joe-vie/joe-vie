@@ -1,6 +1,6 @@
-## Hey y'all's! My name is Jovie! ꉂ(˵˃ ᗜ ˂˵)⸜
+<img width="1200" height="234" alt="studio-ghibli-border" src="https://github.com/user-attachments/assets/60c03600-cc11-46f3-bb41-f4f2eb77d0ef" />
 
-### Bio
+## Hey y'all's! My name is Jovie! ꉂ(˵˃ ᗜ ˂˵)⸜
 
 I am a 17-year-old senior from NYC! °❀⋆.ೃ࿔*:･
 
