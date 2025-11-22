@@ -1,4 +1,4 @@
-<img width="735" height="245" alt="alternative-border" src="https://github.com/user-attachments/assets/9394ff3a-db28-4ca2-bf69-c8a3f1b0ad86" />
+<img width="935" height="245" alt="alternative-border" src="https://github.com/user-attachments/assets/9394ff3a-db28-4ca2-bf69-c8a3f1b0ad86" />
 
 
 ## Hey y'all's! My name is Jovie! ꉂ(˵˃ ᗜ ˂˵)⸜
