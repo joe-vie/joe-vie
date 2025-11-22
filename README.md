@@ -1,10 +1,7 @@
-<img width="935" height="115" alt="romance-goth-border" src="https://github.com/user-attachments/assets/94f6457d-545e-4af3-a0eb-4c8a70dd5d1b" 
+<img width="965" height="225" alt="romance-goth-border" src="https://github.com/user-attachments/assets/94f6457d-545e-4af3-a0eb-4c8a70dd5d1b" 
   />
-<style>
- img{
- object-fit: cover;
- }
-</style>
+
+
 
 
 ## Hey y'all's! My name is Jovie! ꉂ(˵˃ ᗜ ˂˵)⸜
