@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hey y'all's! My name is Jovie! ꉂ(˵˃ ᗜ ˂˵)⸜
 
-<!--
-**joe-vie/joe-vie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 17-year-old senior from NYC! °❀⋆.ೃ࿔*:･
 
-Here are some ideas to get you started:
+I partake in many acting-related activities. I go to an arts high school where I've participated in school productions & been part of original student productions. I also act on film outside of school and look to do it professionally! °❀⋆.ೃ࿔*:･
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Apart from my love for acting, tech has been one of my biggest passions. I've participated in programs through Kode With Klossy and Girls Who Code, where I learned the basics of web development, app development, cybersecurity, and data science. My love for learning more about tech inspired me to join Hack Club, where I was part of the organizing team for Luna, Counterspell NYC, and Daydream NYC, primarily focusing on content creation through social media, leading workshops, and outreach. °❀⋆.ೃ࿔*:･
+
+Overall, I would like to continue making an impact at Hack Club, fight for Latina representation in tech, and pursue both of my passions! °❀⋆.ೃ࿔*:･
+
+Signing off! See you all in a while, my crocodiles 🐊! °❀⋆.ೃ࿔*:･
+
+
+### Favorite Languages/Platforms
+<img width="824" height="824" alt="image" src="https://github.com/user-attachments/assets/e54f7a50-7c60-4622-b90e-0a40a8e00145" /> <img width="1141" height="1600" alt="image" src="https://github.com/user-attachments/assets/4baf42d7-d5cb-4f53-93cd-39b6283c584f" /> <img width="2000" height="2769" alt="image" src="https://github.com/user-attachments/assets/64090e79-6ab4-415f-bf9a-fb508732aa41" /> <img width="600" height="600" alt="image" src="https://github.com/user-attachments/assets/c03b8daa-f413-4e20-802a-e1e456a08c50" /> <img width="4096" height="4096" alt="image" src="https://github.com/user-attachments/assets/b5ac7ac0-b2ab-436d-9c4a-5f6c06f76f35" /> <img width="2048" height="2048" alt="image" src="https://github.com/user-attachments/assets/a77b7d55-d0d5-4352-ae6c-db543547967c" /> <img width="385" height="340" alt="image" src="https://github.com/user-attachments/assets/ec0bf5f1-e829-4634-be97-8a7d28ee3a62" /> <img width="474" height="474" alt="image" src="https://github.com/user-attachments/assets/5fa2be1d-3ec0-40e4-acab-62727667e029" />
+
+
+
+
+
+
+
+
+
